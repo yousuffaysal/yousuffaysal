@@ -13,7 +13,7 @@
   <a href="mailto:yusufoesta7t@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://cal.com/yousuf_faysal_" target="_blank">
+  <a href="https://cal.com/yousuf-faysal/discussion-call" target="_blank">
     <img src="https://img.shields.io/badge/Book_a_Call-Schedule_Now-black?style=for-the-badge&logo=google-calendar" alt="Book a Call" />
   </a>
 
@@ -112,7 +112,7 @@ I work across:
   <h3>📫 Let’s Connect</h3>
   <a href="mailto:yusufoesta7t@gmail.com">yusufoesta7t@gmail.com</a> • 
   <a href="https://foxmen.studio">Foxmen Studio</a> • 
-  <a href="https://cal.com/yousuf_faysal_">Book a Call</a>
+  <a href="https://cal.com/yousuf-faysal/discussion-call">Book a Call</a>
   
   <br/><br/>
   
