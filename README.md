@@ -57,7 +57,7 @@ I work across:
 
 ## 🧠 Professional Experience
 
-### 🔹 [Void Studio](https://voidstudio.xyz) | Designer & Developer
+### 🔹 [Void Studio](https://www.voidstudio.tech/) | Designer & Developer
 *2024 – 2025*
 - Worked as both **UI/UX Designer & Web Developer**
 - Designed modern, user-friendly interfaces
@@ -71,7 +71,7 @@ I work across:
 - Developed full-stack web applications
 - Contributed to product planning and UX improvements
 
-### 🔹 3D WebMasters | Web Application Developer
+### 🔹 [3D WebMasters](https://3dwebmasters.framer.website/) | Web Application Developer
 *May 2025 – Present*
 - Frontend & backend development
 - UI implementation from design to production
