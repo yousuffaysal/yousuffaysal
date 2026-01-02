@@ -5,13 +5,13 @@
 <div align="center">
   
   <a href="https://foxmen.studio" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Foxmen_Studio-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=333333" alt="Website" />
+    <img src="https://img.shields.io/badge/-Foxmen_Studio-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=333333" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/yusuf-faysal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yousuf_Faysal-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="https://x.com/yousuf_faysal_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow_Me-333333?style=for-the-badge&logo=x&logoColor=black&labelColor=FFD700" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=x&logoColor=black&labelColor=FFD700" alt="Twitter" />
   </a>
   <a href="mailto:yusufoesta7t@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD700" alt="Email" />
