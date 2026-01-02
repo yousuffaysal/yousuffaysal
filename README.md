@@ -5,16 +5,16 @@
 <div align="center">
   
   <a href="https://foxmen.studio" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Foxmen_Studio-blue?style=for-the-badge&logo=firefox-browser" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-Foxmen_Studio-FFD700?style=for-the-badge&logo=firefox-browser&logoColor=black&labelColor=333333" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/yusuf-faysal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yousuf_Faysal-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Yousuf_Faysal-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:yusufoesta7t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD700" alt="Email" />
   </a>
   <a href="https://cal.com/yousuf-faysal/discussion-call" target="_blank">
-    <img src="https://img.shields.io/badge/Book_a_Call-Schedule_Now-black?style=for-the-badge&logo=google-calendar" alt="Book a Call" />
+    <img src="https://img.shields.io/badge/Book_a_Call-Schedule_Now-FFD700?style=for-the-badge&logo=google-calendar&logoColor=black&labelColor=black" alt="Book a Call" />
   </a>
 
 </div>
