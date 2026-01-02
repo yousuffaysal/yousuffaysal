@@ -105,24 +105,4 @@ I work across:
 
 ---
 
-## 🌍 Vision
 
-> *“To build impactful digital products that combine beautiful design, strong engineering, and real-world usability.”*
-
----
-
-<div align="center">
-  <h3>📫 Let’s Connect</h3>
-  <a href="mailto:yusufoesta7t@gmail.com">yusufoesta7t@gmail.com</a> • 
-  <a href="https://foxmen.studio">Foxmen Studio</a> • 
-  <a href="https://cal.com/yousuf-faysal/discussion-call">Book a Call</a>
-  
-  <br/><br/>
-  
-  <!-- Optional: GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-faysal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<p align="center">
-  ⭐ <i>If you like my work, feel free to star my repositories and connect with me!</i>
-</p>
