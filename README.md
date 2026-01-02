@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/yusuf-faysal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Yousuf_Faysal-333333?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/yousuf_faysal_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow_Me-333333?style=for-the-badge&logo=x&logoColor=black&labelColor=FFD700" alt="Twitter" />
+  </a>
   <a href="mailto:yusufoesta7t@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD700" alt="Email" />
   </a>
