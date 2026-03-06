@@ -29,11 +29,12 @@
 I’m **Yousuf H Faysal**, a **startup owner, full-stack developer, and UI/UX designer** passionate about creating **modern, scalable, and visually powerful digital products**.
 
 I work across:
-- 🎨 **Product design (UI/UX)**
-- 💻 **Frontend & backend development**
+- 🎨 **Web App Development**
+- 💻 **Frontend & backend development & Architecture**
 - ☁️ **SaaS architecture**
 - 🤖 **AI-powered solutions**
 - 🚀 **Startup product building**
+- 🚀 **System Design**
 
 > I believe great products come from the **perfect balance of design, usability, and engineering**.
 
