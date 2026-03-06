@@ -57,22 +57,22 @@ I work across:
 
 ## 🧠 Professional Experience
 
-### 🔹 [Void Studio](https://www.voidstudio.tech/) | Designer & Developer
-*2024 – 2025*
+### 🔹 [Void Studio](https://www.voidstudio.tech/) | Software Engineer
+*2024 – 2026*
 - Worked as both **UI/UX Designer & Web Developer**
 - Designed modern, user-friendly interfaces
 - Developed production-level web applications
 - Collaborated with teams on product design & development
 
 ### 🔹 [Sailors Agency](https://sailorsagency.com) | Full-Stack Developer & UI/UX Designer
-*March 2025 – Present*
+*March 2025 – Jan 2026*
 - Designed clean, conversion-focused user interfaces
 - Built scalable backend systems
 - Developed full-stack web applications
 - Contributed to product planning and UX improvements
 
 ### 🔹 [3D WebMasters](https://3dwebmasters.framer.website/) | Web Application Developer
-*May 2025 – Present*
+*May 2025 – December 2025*
 - Frontend & backend development
 - UI implementation from design to production
 - Client-focused website development
