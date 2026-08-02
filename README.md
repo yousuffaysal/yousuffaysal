@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=600&color=EE4F4F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yousuf+H+Faysal;Founder+%40+Foxmen+Studio;AI-Powered+Full-Stack+Developer;UI%2FUX+Designer+%7C+LLM+Engineer;I+ship+products%2C+not+demos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=600&color=EE4F4F&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Yousuf+H+Faysal;AI-Powered+Full-Stack+Developer;Building+at+Foxmen+Studio;UI%2FUX+Designer+%7C+LLM+Engineer;I+ship+products%2C+not+demos" alt="Typing SVG" />
 
 <p>
   <a href="https://foxmen.studio" target="_blank">
@@ -69,9 +69,9 @@ I start from my own ideas, design them in Figma, and build them with an **AI-nat
 
 ---
 
-## Foxmen Studio — Founder
+## Foxmen Studio — Software Developer
 
-**[foxmen.studio](https://foxmen.studio)** — a creative technology studio building premium digital products for startups, founders and businesses.
+**[foxmen.studio](https://foxmen.studio)** — a creative technology studio building premium digital products for startups, businesses and product teams. I work there as a software developer, owning builds end to end.
 
 | Focus Area | What We Deliver |
 | :--- | :--- |
