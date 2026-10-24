@@ -1,18 +1,26 @@
 <div align="center">
   <a href="https://yousuf-faysal-portfolio.vercel.app/">
-    <img src="./profile-banner.svg" width="100%" alt="Yousuf H Faysal — full-stack developer, UI/UX designer and AI systems builder. Explore my portfolio." />
+    <img src="./profile-banner.svg" width="100%" alt="Yousuf H Faysal — Researcher, AI Engineer and Software Engineer. Explore my portfolio." />
   </a>
 
   <p><a href="https://yousuf-faysal-portfolio.vercel.app/"><strong>Portfolio ↗</strong></a> &nbsp; · &nbsp; <a href="https://foxmen.studio">Foxmen Studio</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/yusuf-faysal/">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:yusufoesta7t@gmail.com">Email</a> &nbsp; · &nbsp; <a href="https://cal.com/yousuf-faysal/discussion-call">Book a conversation</a></p>
 </div>
 
-## I turn ideas into working products.
+## Researcher · AI Engineer · Software Engineer
 
-I’m **Yousuf Hossain Faysal**, a full-stack software developer and UI/UX designer based in **Dhaka, Bangladesh**. I work across the entire product: understanding the problem, designing in Figma, building the interface and backend, modelling the data, and keeping it running after launch.
+I’m **Yousuf Hossain Faysal**, based in **Dhaka, Bangladesh**. I research ideas, build agentic AI systems, and engineer complete software products—from the first question and prototype to the interface, backend, data and deployment.
 
-My focus is **thoughtful interfaces, practical AI integrations and complete systems**. I use Claude Code, MCP, Cursor and other AI tools as part of my workflow, while owning architecture, verification and delivery decisions.
+**I study new things to put them into practice.** I read, experiment, test assumptions and turn what I learn into working implementations. My interests connect **deep learning, machine learning, computer vision, LLMs and agentic AI** with useful, well-designed products.
 
-**Currently:** building at [Foxmen Studio](https://foxmen.studio), developing [The Cortex](https://github.com/yousuffaysal/cortex), and exploring agent orchestration and deep-learning frameworks.
+| My focus | How I put it into practice |
+| :--- | :--- |
+| **Research** | Study unfamiliar concepts, explore methods, run experiments and evaluate what works. My foundation is statistics and analytical problem-solving. |
+| **AI engineering** | Build agents, retrieval-grounded assistants, MCP tools and voice interactions; connect models to real application workflows. |
+| **Software engineering** | Own architecture, full-stack development, data modelling, UI/UX, verification and deployment. |
+
+**My process:** Study → Experiment → Implement → Evaluate → Improve.
+
+**Currently:** building at [Foxmen Studio](https://foxmen.studio), developing [The Cortex](https://github.com/yousuffaysal/cortex), and deepening my work in agent orchestration and deep learning.
 
 ---
 
@@ -100,18 +108,25 @@ A few projects that show how I connect design, engineering and AI. Each case stu
 ### Backend & data
 <img src="./toolkit-backend.svg" width="700" alt="Python, Node.js, Django, Flask, PostgreSQL, Prisma and Redis" />
 
-### AI, machine learning & statistics
-<img src="./toolkit-ai.svg" width="800" alt="Claude Code, Cursor, Hugging Face, TensorFlow.js, scikit-learn, pandas, NumPy and R" />
+### Deep learning & computer vision
+<img src="./toolkit-deep-learning.svg" width="400" alt="Deep learning: PyTorch, TensorFlow.js, Keras and Hugging Face Transformers — colorful original tool marks" />
 
-**Also in my workflow:** MCP · retrieval-augmented generation · tool calling · Groq · MiniMax · OpenAI API · MediaPipe · XGBoost · Antigravity IDE.
+**TensorFlow.js · MediaPipe · Hugging Face Transformers** — browser-based inference, hand-landmark detection and on-device voice models. **PyTorch** is an active learning focus; I’m also exploring **Keras** through experiments and prototypes.
+
+### Agentic AI & LLM engineering
+<img src="./toolkit-agents.svg" width="500" alt="LangChain, LangGraph, Hugging Face, Claude Code and Cursor" />
+
+**MCP · RAG · tool calling · context & memory · voice agents · workflow orchestration.** I build assistants that retrieve relevant information and interact with application tools, with scoped permissions and verification. I’m learning **LangChain** and exploring **LangGraph** to extend my agent-building workflow.
+
+**Models & development tools:** Groq · MiniMax · OpenAI API · Claude Code · Cursor · Antigravity IDE.
+
+### Machine learning, statistics & data
+<img src="./toolkit-statistics.svg" width="400" alt="scikit-learn, pandas, NumPy and R" />
+
+**Also:** XGBoost · forecasting · anomaly detection · data preparation · model evaluation.
 
 ### Design & delivery
 <img src="./toolkit-delivery.svg" width="300" alt="Figma, GitHub and Vercel" />
-
-### Currently learning & exploring
-<img src="./toolkit-learning.svg" width="400" alt="Learning LangChain and PyTorch; exploring LangGraph and Keras" />
-
-**Learning:** LangChain and PyTorch. **Exploring:** LangGraph and Keras. These are learning directions, not claims of production experience.
 
 [See my full toolkit →](https://yousuf-faysal-portfolio.vercel.app/info/tools/)
 
